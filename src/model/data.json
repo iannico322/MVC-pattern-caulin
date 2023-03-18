@@ -1,0 +1,19 @@
+[
+    
+    {
+    "houseName" : "Oscorp",
+    "color" : "green",
+    "from" : "Green goblin Family"
+}
+,{
+    "houseName" : "Hom-e",
+    "color" : "red",
+    "from" : "Spiderman Family"
+},
+{
+    "houseName" : "Asgard",
+    "color" : "yellow",
+    "from" : "Thor Family"
+}
+
+]
