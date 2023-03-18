@@ -9,11 +9,11 @@ class Model extends React.Component {
     };
   }
 
+
   componentDidMount() {
-    setTimeout(() => {
-      this.setState({ items:data});
-    }, 1000);
-   
+    //Response
+    this.setState({items:data})
+    console.log(data)
   }
 
   render() {
